@@ -1,0 +1,17 @@
+# Raw TLC trip data (download from the TLC website, see README)
+*.parquet
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pkl
+
+# Environments and secrets
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
